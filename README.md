@@ -3,3 +3,5 @@
 The download link in the <http://www.ai-junkie.com/books/toc_pgaibe.html> was broke.
 
 I found it from a torrent and share it here.
+
+Java source code: https://www.sallyx.org/sally/en/game-ai/
